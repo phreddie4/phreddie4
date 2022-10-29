@@ -35,7 +35,8 @@
 [twitter]: https://twitter.com/phreddie4
 [youtube]: https://www.youtube.com/channel/UCI3SRvrAmO86aJhC7QobsXA
 [instagram]: https://www.instagram.com/phreddie4/
-[linkedin]: www.linkedin.com/in/frederickoamankwah
+[linkedin]: https://www.linkedin.com/in/frederickoamankwah
+
 
 
 <!--
