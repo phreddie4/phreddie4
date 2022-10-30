@@ -22,7 +22,7 @@
 - [Nessus Tutorial: Vulnerability Management](https://github.com/joshmadakor1/Algorithms-Practice)
 - [File Integrity Monitor Tutorial](https://github.com/joshmadakor1/Algorithms-Practice)
 - [SIEM Tutorial | Zure Sentinel Tutorial Map with LIVE CYBER ATTACKS](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Building A Simple Rest API](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 <h2> 🤳 Connect with me:</h2>
 
