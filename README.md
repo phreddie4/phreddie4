@@ -20,7 +20,7 @@
 
 - [Tutorial Active Directory Home Lab](https://youtu.be/FQ9fVHFAJJk)
 - [Nessus Tutorial: Vulnerability Management](https://www.youtube.com/watch?v=Wdg1K-HEVsk&t=161s))
-- [SIEM Tutorial | Zure Sentinel Tutorial Map with LIVE CYBER ATTACKS](https://github.com/joshmadakor1/Algorithms-Practice)
+- [SIEM Tutorial | Zure Sentinel Tutorial Map with LIVE CYBER ATTACKS](https://youtu.be/sPZkLICFegg)
 
 
 <h2> 🤳 Connect with me:</h2>
