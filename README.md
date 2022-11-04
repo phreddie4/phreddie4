@@ -16,9 +16,9 @@
   
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Tutorial Active Directory Home Lab](https://youtu.be/FQ9fVHFAJJk)
 - [Nessus Tutorial: Vulnerability Management](https://www.youtube.com/watch?v=Wdg1K-HEVsk&t=161s))
 - [SIEM Tutorial | Zure Sentinel Tutorial Map with LIVE CYBER ATTACKS](https://github.com/joshmadakor1/Algorithms-Practice)
 
