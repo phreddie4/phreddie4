@@ -20,7 +20,6 @@
 
 - [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Nessus Tutorial: Vulnerability Management](https://www.youtube.com/watch?v=Wdg1K-HEVsk&t=161s))
-- [File Integrity Monitor Tutorial](https://github.com/joshmadakor1/Algorithms-Practice)
 - [SIEM Tutorial | Zure Sentinel Tutorial Map with LIVE CYBER ATTACKS](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
