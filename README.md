@@ -7,7 +7,7 @@
 
 <h2> Certifications And Specializations<h2>
 
-- [IBM Cybersecurity Professional Analyst](https://coursera.org/share/b7682793c4bb6426ece74bdaad6801ef) 
+- [IBM Cybersecurity Analyst](https://coursera.org/share/b7682793c4bb6426ece74bdaad6801ef) 
 - [University of Colorado System - Cybersecurity For Business](https://coursera.org/share/fe74f9bb1ed8dae2bdf59727699ef584)    
 - [INFOSEC - Cyber Incidence Response](https://coursera.org/share/1906e72cf58cc0ff9ecc9eac376b8cfa)  
 - [Google IT Support Professional](https://coursera.org/share/3481589d829e25f0be5d814801cdee72)
