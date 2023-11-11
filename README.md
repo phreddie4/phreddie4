@@ -1,9 +1,6 @@
 <h1>Hi, I'm Frederick! </h1>
 
 <h2> Cybersecurity Projects:</h2>
-
-- [Nessus Tutorial: Vulnerability Management](https://github.com/joshmadakor1/Algorithms-Practice)
-
 <h2> Certifications And Specializations<h2>
 
 - [IBM Cybersecurity Analyst](https://coursera.org/share/b7682793c4bb6426ece74bdaad6801ef) 
