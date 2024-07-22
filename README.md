@@ -7,7 +7,7 @@
 - [Google IT Support Professional](https://coursera.org/share/3481589d829e25f0be5d814801cdee72)
 - [Johns Hopkins University - Health IT Support](https://coursera.org/share/464a4edcc542a9b36df32925a8d17395)
 - [Google Project Management](https://coursera.org/share/dc23030944f4055bc5517ba8486cf535)
-- [Comptia Security+]([https://www.credly.com/badges/76f7bdc7-18d9-466e-aef5-48581efefcc9])  
+- [Comptia Security+](https://www.credly.com/badges/76f7bdc7-18d9-466e-aef5-48581efefcc9)  
 
   
 
