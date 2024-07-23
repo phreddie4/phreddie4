@@ -29,6 +29,10 @@ Vulnerability Management-Qualys, Nessus
 [Google Project Management](https://coursera.org/share/dc23030944f4055bc5517ba8486cf535)
 [Comptia Security+](https://www.credly.com/badges/76f7bdc7-18d9-466e-aef5-48581efefcc9)  
 
+
+
+
+
 ## PROJECTS
 [Vulnerability Management With Nessus](https://www.credly.com/badges/76f7bdc7-18d9-466e-aef5-48581efefcc9)  
 [Network Security With Wirehark](https://www.credly.com/badges/76f7bdc7-18d9-466e-aef5-48581efefcc9)  
