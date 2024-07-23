@@ -9,7 +9,7 @@ My curiosity about computer security has led me to develop a passion for cyberse
 
 
 ## SKILLS                      
-| SIEM Implementation and Log Analysis(QRadar)                
+| SIEM Implementation and Log Analysis               
 | Ticketing     
 | Documenting
 | EDR
