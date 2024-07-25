@@ -9,7 +9,11 @@ My curiosity about computer security has led me to develop a passion for cyberse
 
 
 ## SKILLS                      
-SIEM Implementation and Log Analysis |Ticketing |Documenting |EDR Network Analysis |Vulnerability Management
+SIEM Implementation and Log Analysis 
+Ticketing|Documenting 
+EDR
+Network Analysis 
+Vulnerability Management
    
 
 
@@ -40,8 +44,8 @@ Vulnerability Management-Qualys, Nessus
 
 
 ## PROJECTS
-[Vulnerability Management With Nessus](https://www.credly.com/badges/76f7bdc7-18d9-466e-aef5-48581efefcc9)  
-[Network Security With Wirehark](https://www.credly.com/badges/76f7bdc7-18d9-466e-aef5-48581efefcc9)  
+[Vulnerability Management With Nessus](https://phred.my.canva.site/copy-of-fred-s-porfolio)  
+[Network Security ](https://phred.my.canva.site/network-analysis-with-wireshark))  
 
 
 
